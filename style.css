@@ -1,0 +1,36 @@
+body
+{
+  font-family: 'Source Sans Pro', sans-serif;
+  background: yellowgreen;
+}
+
+.header_div
+{
+    background: grey;
+    color: blueviolet;
+}
+
+.header_div p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: aqua;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
